@@ -1,0 +1,39 @@
+pipeline {
+
+ agent any
+
+ stages {
+
+  stage('Build') {
+
+   steps {
+
+    echo 'Building Application'
+
+   }
+
+  }
+
+  stage('Security Scan') {
+
+   steps {
+
+    echo 'Running Security Analysis'
+
+   }
+
+  }
+
+  stage('Deploy') {
+
+   steps {
+
+    echo 'Deploying Application'
+
+   }
+
+  }
+
+ }
+
+}
