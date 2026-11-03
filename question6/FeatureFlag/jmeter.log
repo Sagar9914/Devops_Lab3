@@ -1,0 +1,22 @@
+2026-11-03 05:57:43,866 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2026-11-03 05:57:43,911 INFO o.a.j.JMeter: Loading user properties from: /home/sagar/jmeter/bin/user.properties
+2026-11-03 05:57:43,913 INFO o.a.j.JMeter: Loading system properties from: /home/sagar/jmeter/bin/system.properties
+2026-11-03 05:57:43,927 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2026-11-03 05:57:43,928 INFO o.a.j.JMeter: Version 5.6.3
+2026-11-03 05:57:43,928 INFO o.a.j.JMeter: java.version=17.0.20.1
+2026-11-03 05:57:43,929 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2026-11-03 05:57:43,929 INFO o.a.j.JMeter: os.name=Linux
+2026-11-03 05:57:43,930 INFO o.a.j.JMeter: os.arch=amd64
+2026-11-03 05:57:43,930 INFO o.a.j.JMeter: os.version=6.6.87.2-microsoft-standard-WSL2
+2026-11-03 05:57:43,930 INFO o.a.j.JMeter: file.encoding=UTF-8
+2026-11-03 05:57:43,931 INFO o.a.j.JMeter: java.awt.headless=null
+2026-11-03 05:57:43,931 INFO o.a.j.JMeter: Max memory     =1073741824
+2026-11-03 05:57:43,932 INFO o.a.j.JMeter: Available Processors =12
+2026-11-03 05:57:43,953 INFO o.a.j.JMeter: Default Locale=English (EN)
+2026-11-03 05:57:43,954 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2026-11-03 05:57:43,955 INFO o.a.j.JMeter: JMeterHome=/home/sagar/jmeter
+2026-11-03 05:57:43,955 INFO o.a.j.JMeter: user.dir  =/mnt/c/Users/sagar/desktop/Devops-Lab3/question6/FeatureFlag
+2026-11-03 05:57:43,956 INFO o.a.j.JMeter: PWD       =/mnt/c/Users/sagar/desktop/Devops-Lab3/question6/FeatureFlag
+2026-11-03 05:57:43,956 INFO o.a.j.JMeter: IP: 127.0.1.1 Name: VICTUS FullName: VICTUS.localdomain
+2026-11-03 05:57:44,010 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2026-11-03 05:56:29,220 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
